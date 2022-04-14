@@ -565,6 +565,7 @@ section {
 */
 .navbar {
   padding: 0;
+  position: relative;
 }
 .navbar ul {
   margin: 0;
