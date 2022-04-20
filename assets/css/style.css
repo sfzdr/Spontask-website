@@ -554,7 +554,7 @@ section {
 #header .logo img {
   padding: 0;
   margin: 0;
-  max-height: 200px;
+  max-height: 300px;
 }
 
 /*--------------------------------------------------------------
@@ -897,4 +897,10 @@ section {
 }
 .social a i {
   line-height: 0;
+}
+.temp {
+  margin-left: -130px;
+}
+.temp2 {
+  margin-left: -300px;
 }
